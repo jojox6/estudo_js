@@ -13,6 +13,6 @@ Use barras invertidas para atribuir uma string à myStrvariável de forma que, s
 I am a "double quoted" string inside "double quotes".
  */
 
-const myStr = "I am a \"double quoted\" string inside \"double quoute\"";
+const myStr = "I am a \"double quoted\" string inside \"double quotes\"."; // Change this line
 
 console.log(myStr);
